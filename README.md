@@ -2,8 +2,10 @@
 
 **`Estudante de Ciência da Computação | PUC Minas`**
 
-Me chamo Sarah Martins Pedrosa, tenho 20 anos e sou natural de Minas Gerais. Atualmente, estou cursando Ciência da Computação na PUC Minas. Sou apaixonada por tecnologia e busco sempre aprender coisas novas! Acompanhe meu desenvolvimento no Instragram com o perfil chamado "[sarahmrts__](https://www.instagram.com/sarahmrts__/)", e no LinkedIn com o perfil chamado "[Sarah Martins Pedrosa](https://www.linkedin.com/in/sarah-martins-pedrosa)".
+Me chamo Sarah Martins Pedrosa, tenho 20 anos e sou natural de Minas Gerais. Atualmente, estou cursando Ciência da Computação na PUC Minas. Sou apaixonada por tecnologia e busco sempre aprender coisas novas! 
 
+<a href="https://www.instagram.com/sarahmrts__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/sarah-martins-pedrosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -62,4 +64,7 @@ Me chamo Sarah Martins Pedrosa, tenho 20 anos e sou natural de Minas Gerais. Atu
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmps&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+</p>
+<p>
+    ![Snake animation] ()
 </p>                  
