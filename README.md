@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Olá,+mundo!+Eu+sou+a+Sarah👋)](https://github.com/sarahmps)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Olá,+mundo!+Eu+sou+a+Sarah+👋)](https://github.com/sarahmps)
 
 
 **`Estudante de Ciência da Computação | PUC Minas`**
@@ -64,8 +64,9 @@ Me chamo Sarah Martins Pedrosa, tenho 20 anos e sou natural de Minas Gerais. Atu
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmps&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
-<p>
-    ![Snake animation] ()
-</p>                  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarahmps/sarahmps/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarahmps/sarahmps/output/github-contribution-grid-snake.svg" />
+  <img alt="Animação da cobrinha nas contribuições do GitHub" src="https://raw.githubusercontent.com/sarahmps/sarahmps/output/github-contribution-grid-snake.svg" />
+</picture>
