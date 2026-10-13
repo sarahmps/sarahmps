@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Olá,+mundo+!+Eu+sou+a+Sarah!)](https://github.com/sarahmps)
-## Olá mundo! Eu sou a Sarah 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Olá,+mundo!+Eu+sou+a+Sarah👋)](https://github.com/sarahmps)
 
 
 **`Estudante de Ciência da Computação | PUC Minas`**
