@@ -1,12 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Olá,+mundo!+Eu+sou+a+Sarah+👋)](https://github.com/sarahmps)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F9A8D4&center=true&vCenter=true&width=500&lines=Olá,+mundo!+Eu+sou+a+Sarah+👋)](https://github.com/sarahmps)
 
 **`Estudante de Ciência da Computação | PUC Minas`**
 
 Me chamo Sarah Martins Pedrosa, tenho 20 anos e sou natural de Minas Gerais. Atualmente, estou cursando Ciência da Computação na PUC Minas. Sou apaixonada por tecnologia e busco sempre aprender coisas novas! 
 
-<a href="https://www.instagram.com/sarahmrts__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/sarah-martins-pedrosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/sarahmrts__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23F9A8D4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/sarah-martins-pedrosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23F9A8D4?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -55,14 +54,14 @@ Me chamo Sarah Martins Pedrosa, tenho 20 anos e sou natural de Minas Gerais. Atu
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=sarahmps&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=sarahmps&show_icons=true&include_all_commits=true&locale=pt-br&title_color=F9A8D4&icon_color=F9A8D4&text_color=C9D1D9&bg_color=0D1117&border_color=F9A8D4"
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmps&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmps&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=F9A8D4&text_color=C9D1D9&bg_color=0D1117&border_color=F9A8D4" 
   />
 </p>
 <picture>
