@@ -35,24 +35,60 @@ Me chamo Sarah Martins Pedrosa, tenho 20 anos e sou natural de Minas Gerais. Atu
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sarahmps&show_icons=true&include_all_commits=true&locale=pt-br&title_color=F4C2C2&icon_color=F4C2C2&text_color=F4C2C2&bg_color=0D1117&border_color=F4C2C2">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sarahmps&show_icons=true&include_all_commits=true&locale=pt-br&title_color=B57574&icon_color=B57574&text_color=B57574&bg_color=FFF7F5&border_color=B57574">
-  <img alt="Estatísticas do GitHub" height="200" src="https://github-readme-stats.vercel.app/api?username=sarahmps&show_icons=true&include_all_commits=true&locale=pt-br&title_color=B57574&icon_color=B57574&text_color=B57574&bg_color=FFF7F5&border_color=B57574">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmps&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=F4C2C2&text_color=F4C2C2&bg_color=0D1117&border_color=F4C2C2">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmps&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=B57574&text_color=B57574&bg_color=FFF7F5&border_color=B57574">
-  <img alt="Linguagens mais utilizadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmps&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=B57574&text_color=B57574&bg_color=FFF7F5&border_color=B57574">
-</picture>
+<table>
+  <tr>
+    <td align="center">
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-stats.vercel.app/api?username=sarahmps&show_icons=true&include_all_commits=true&locale=pt-br&title_color=F4C2C2&icon_color=F4C2C2&text_color=F4C2C2&bg_color=0D1117&border_color=F4C2C2"
+        />
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://github-readme-stats.vercel.app/api?username=sarahmps&show_icons=true&include_all_commits=true&locale=pt-br&title_color=B57574&icon_color=B57574&text_color=B57574&bg_color=FFF7F5&border_color=B57574"
+        />
+        <img
+          alt="Estatísticas do GitHub"
+          width="285"
+          src="https://github-readme-stats.vercel.app/api?username=sarahmps&show_icons=true&include_all_commits=true&locale=pt-br&title_color=B57574&icon_color=B57574&text_color=B57574&bg_color=FFF7F5&border_color=B57574"
+        />
+      </picture>
+    </td>
+    <td align="center">
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmps&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=F4C2C2&text_color=F4C2C2&bg_color=0D1117&border_color=F4C2C2"
+        />
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmps&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=B57574&text_color=B57574&bg_color=FFF7F5&border_color=B57574"
+        />
+        <img
+          alt="Linguagens mais utilizadas"
+          width="220"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmps&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=B57574&text_color=B57574&bg_color=FFF7F5&border_color=B57574"
+        />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <br clear="both"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarahmps/sarahmps/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarahmps/sarahmps/output/github-contribution-grid-snake.svg">
-  <img alt="Animação da cobrinha nas contribuições do GitHub" src="https://raw.githubusercontent.com/sarahmps/sarahmps/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sarahmps/sarahmps/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sarahmps/sarahmps/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Animação da cobrinha nas contribuições do GitHub"
+    src="https://raw.githubusercontent.com/sarahmps/sarahmps/output/github-contribution-grid-snake.svg"
+  />
 </picture>
