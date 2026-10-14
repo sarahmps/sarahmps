@@ -1,10 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F4C2C2&center=true&vCenter=true&width=500&lines=Ol%C3%A1,+mundo!+Eu+sou+a+Sarah+%F0%9F%91%8B">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B57574&center=true&vCenter=true&width=500&lines=Ol%C3%A1,+mundo!+Eu+sou+a+Sarah+%F0%9F%91%8B">
-  <img alt="Olá, mundo! Eu sou a Sarah" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B57574&center=true&vCenter=true&width=500&lines=Ol%C3%A1,+mundo!+Eu+sou+a+Sarah+%F0%9F%91%8B">
-</picture>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B57574&center=true&vCenter=true&width=500&lines=Ol%C3%A1,+mundo!+Eu+sou+a+Sarah+%F0%9F%91%8B)
 
-Estudante de Ciência da Computação | PUC Minas
+**Estudante de Ciência da Computação | PUC Minas**
 
 Me chamo Sarah Martins Pedrosa, tenho 20 anos e sou natural de Minas Gerais. Atualmente, estou cursando Ciência da Computação na PUC Minas. Sou apaixonada por tecnologia e busco sempre aprender coisas novas!
 
@@ -54,6 +50,7 @@ Me chamo Sarah Martins Pedrosa, tenho 20 anos e sou natural de Minas Gerais. Atu
         />
       </picture>
     </td>
+    
     <td align="center">
       <picture>
         <source
