@@ -18,15 +18,38 @@ Me chamo Sarah Martins Pedrosa, tenho 20 anos e sou natural de Minas Gerais. Atu
   </picture>
 </a>
 
-
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" alt="HTML" title="HTML" width="30px" style="vertical-align: middle;padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 
+<img align="left" alt="CSS" title="CSS" width="30px" style="vertical-align: middle;padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="vertical-align: middle;padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
+<img align="left" alt="C" title="C" width="30px" style="vertical-align: middle;padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
 <br/> <br/>
 
-<p> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sarahmps&show_icons=true&include_all_commits=true&locale=pt-br&title_color=F4C2C2&icon_color=F4C2C2&text_color=F4C2C2&bg_color=21191D&border_color=F4C2C2" /> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sarahmps&show_icons=true&include_all_commits=true&locale=pt-br&title_color=B57574&icon_color=B57574&text_color=B57574&bg_color=FFF7F5&border_color=B57574" /> <img align="left" alt="Estatísticas do GitHub" height="200" src="https://github-readme-stats.vercel.app/api?username=sarahmps&show_icons=true&include_all_commits=true&locale=pt-br&title_color=B57574&icon_color=B57574&text_color=B57574&bg_color=FFF7F5&border_color=B57574" /> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmps&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=F4C2C2&text_color=F4C2C2&bg_color=21191D&border_color=F4C2C2" /> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmps&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=B57574&text_color=B57574&bg_color=FFF7F5&border_color=B57574" /> <img align="left" alt="Linguagens mais utilizadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmps&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=B57574&text_color=B57574&bg_color=FFF7F5&border_color=B57574" /> </picture> </p>
+<div align="center">
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sarahmps&show_icons=true&include_all_commits=true&locale=pt-br&title_color=F4C2C2&icon_color=F4C2C2&text_color=F4C2C2&bg_color=0D1117&border_color=F4C2C2">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sarahmps&show_icons=true&include_all_commits=true&locale=pt-br&title_color=B57574&icon_color=B57574&text_color=B57574&bg_color=FFF7F5&border_color=B57574">
+    <img
+      alt="Estatísticas do GitHub"
+      width="285"
+      style="display: inline-block; vertical-align: top; margin-right: 10px;"
+      src="https://github-readme-stats.vercel.app/api?username=sarahmps&show_icons=true&include_all_commits=true&locale=pt-br&title_color=B57574&icon_color=B57574&text_color=B57574&bg_color=FFF7F5&border_color=B57574">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmps&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=F4C2C2&text_color=F4C2C2&bg_color=0D1117&border_color=F4C2C2">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmps&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=B57574&text_color=B57574&bg_color=FFF7F5&border_color=B57574">
+    <img
+      alt="Linguagens mais utilizadas"
+      width="220"
+      style="display: inline-block; vertical-align: top;"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmps&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=B57574&text_color=B57574&bg_color=FFF7F5&border_color=B57574">
+  </picture>
+
+</div>
 
 <br clear="both"/>
 
