@@ -4,28 +4,17 @@
 
 Me chamo Sarah Martins Pedrosa, tenho 20 anos e sou natural de Minas Gerais. Atualmente, estou cursando Ciência da Computação na PUC Minas. Sou apaixonada por tecnologia e busco sempre aprender coisas novas!
 
-<a href="https://www.instagram.com/sarahmrts__/" target="blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Instagram-%23F4C2C2?style=for-the-badge&logo=instagram&logoColor=302329">
-    <img src="https://img.shields.io/badge/-Instagram-%23B57574?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </picture>
-</a>
+<p>
+<a href="https://www.instagram.com/sarahmrts__/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Instagram-%23F4C2C2?style=for-the-badge&logo=instagram&logoColor=302329"><img src="https://img.shields.io/badge/-Instagram-%23B57574?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></picture></a>
+<a href="https://www.linkedin.com/in/sarah-martins-pedrosa" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-LinkedIn-%23F4C2C2?style=for-the-badge&logo=linkedin&logoColor=302329"><img src="https://img.shields.io/badge/-LinkedIn-%23B57574?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></picture></a>
+</p>
 
-<a href="https://www.linkedin.com/in/sarah-martins-pedrosa" target="blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-LinkedIn-%23F4C2C2?style=for-the-badge&logo=linkedin&logoColor=302329">
-    <img src="https://img.shields.io/badge/-LinkedIn-%23B57574?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </picture>
-</a>
-
-<img align="left" alt="HTML" title="HTML" width="30px" style="vertical-align: middle;padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 
-<img align="left" alt="CSS" title="CSS" width="30px" style="vertical-align: middle;padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="vertical-align: middle;padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
-<img align="left" alt="C" title="C" width="30px" style="vertical-align: middle;padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-
-<br/> <br/>
-
-<div align="center">
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="30" height="30">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="30" height="30">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30" height="30">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" title="C" width="30" height="30">
+</p>
 
 <div align="center">
 
